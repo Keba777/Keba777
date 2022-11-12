@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keba777
-- 👀 I’m interested in coding python.
+- 👀 I’m interested in coding .
 - 🌱 I’m currently learning Coding by myself.
 - 💞️ I’m looking to collaborate on diferent platforms to code.
 - 📫 How to reach me you can reach me at telegram by @Keba127.
