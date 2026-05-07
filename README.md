@@ -24,7 +24,6 @@ Currently building **Dime** — a next-generation payment infrastructure for Eth
 💡 I don't just write code. I architect systems that scale, ship, and solve real problems.
 ```
 
-- 🔭 **Currently building:** Dime — Ethiopia's future payment platform
 - 🤖 **AI focus:** LLM integrations, RAG pipelines, ML model deployment
 - 🌍 **Open to:** Remote contracts, freelance projects, and long-term collaborations
 - ⚡ **Fun fact:** I work across the full stack — from Rust systems code to Flutter UIs
@@ -125,7 +124,7 @@ I'm available for **freelance contracts** and **remote collaborations** worldwid
 
 - 🌍 Based in Addis Ababa, Ethiopia (UTC+3)
 - ⚡ Response time: within a few hours
-- 💼 [Hire me on Upwork](#) ← *(add your Upwork profile link here)*
+- 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~016a8ec9c9bf3be84c?mp_source=share)
 - 📧 Reach out via [LinkedIn](https://linkedin.com/in/kibreab-aklilu-40011a256)
 
 ---
